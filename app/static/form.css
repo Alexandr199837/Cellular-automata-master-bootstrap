@@ -1,0 +1,15 @@
+#canvas {
+  border: solid 1px #aaa;
+  cursor: default;
+  vertical-align: top;
+}
+   
+input[type="text"]{
+  display: block;
+  width: 240px;
+  font-size: 15px;
+  padding: 7px 7px 8px;
+}
+
+
+  
